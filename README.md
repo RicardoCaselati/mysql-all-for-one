@@ -3,7 +3,7 @@
 ------------
 
 </br>
- ### 🖥️ Desenvolvimento
+<h3>🖥️ Desenvolvimento</h3>
 
 ------------
 
@@ -11,7 +11,7 @@
 <p>Nesse projeto modelamos um banco de dados, manipulamos e acessamos esses dados com queries SQL.</p>
 
 </br>
-### 🦾 Tecnologias
+<h3>🦾 Tecnologias</h3>
 
 ------------
 
