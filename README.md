@@ -1,16 +1,15 @@
-# 🚧 README em construção 🚧
+## MySQL All For One
 
-<!-- Olá, Tryber!
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+### Desenvolvimento
 
-É essencial que você preencha esse documento por conta própria, ok?
+<p>Projeto desenvolvido na <a hrefo=https://www.betrybe.com>Trybe</a> durante o módulo de Back-End!</p>
+<p>Nesse projeto modelamos um banco de dados, manipulamos e acessamos esses dados com queries SQL.</p>
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
 
--->
+
+
+### Tecnologias
+<p>SQL</p>
+<p>Docker CLI</p>
